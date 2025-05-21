@@ -107,4 +107,4 @@ To replicate or understand this workflow fully, one would typically need:
 
 ## Workflow Screenshot
 
-![image_alt]{https://github.com/enricor91/n8n-showcase/blob/main/whatsapp-ai-dental-assistant-screenshot.JPG}
+![Image](https://github.com/user-attachments/assets/ab737208-fc73-4110-bcff-63536d2fef7a)
